@@ -40,6 +40,7 @@
         "$TYPE_VIBRATION_SENSOR": "ZHAVibration",
         "$TYPE_WINDOW_COVERING_DEVICE": "Window covering device",
         "$TYPE_ZGP_SWITCH": "ZGPSwitch",
-        "$TYPE_SPECTRAL_SENSOR": "ZHASpectral"
+        "$TYPE_SPECTRAL_SENSOR": "ZHASpectral",
+        "$TYPE_WATER_SENSOR": "ZHAWater"
     }
 }
